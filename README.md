@@ -45,7 +45,7 @@ Ready to classify some fruits? Here’s how to set it up:
      ```
 
 2. **Get the Dataset**:
-- Download fruit_data_with_colors.txt from the project folder or [source](https://github.com/UC Irvine Machine Learning Repository/fruit_data_with_colors.txt).
+- Download fruit_data_with_colors.txt from the project folder or [source](https://www.kaggle.com/datasets/mjamilmoughal/fruits-with-colors-dataset).
 - Place it in a data folder in the project directory.
 
 3. **Run the Notebook**:

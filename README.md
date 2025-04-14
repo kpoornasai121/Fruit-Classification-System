@@ -11,7 +11,7 @@ Check out my GitHub: [kpoornasai121](https://github.com/kpoornasai121)
 
 ## What’s This Project About?
 
-This project uses the [Fruit Dataset](https://github.com/UC Irvine Machine Learning Repository/fruit_data_with_colors.txt) to classify fruits into categories (apple, mandarin, orange, lemon) based on features like mass, width, height, and color score. It leverages Python for data analysis, visualization, and machine learning, with a Random Forest model to make predictions. The Streamlit app lets you input fruit characteristics and get instant predictions, making it both educational and interactive.
+This project uses the [Fruit Dataset](https://www.kaggle.com/datasets/mjamilmoughal/fruits-with-colors-dataset) to classify fruits into categories (apple, mandarin, orange, lemon) based on features like mass, width, height, and color score. It leverages Python for data analysis, visualization, and machine learning, with a Random Forest model to make predictions. The Streamlit app lets you input fruit characteristics and get instant predictions, making it both educational and interactive.
 
 ## Cool Features
 

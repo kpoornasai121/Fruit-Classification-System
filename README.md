@@ -2,8 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 Hey there! Welcome to my Fruit Classification project—a fun exploration of machine learning to identify fruits based on their physical traits. I’m Poornasai, and I built this to predict fruit types like apples, mandarins, oranges, and lemons using features like mass, width, height, and color score. The project includes a Jupyter notebook for analysis and a cool Streamlit app to make predictions interactively. Let’s dive into the world of fruits! 🍎🍊
 

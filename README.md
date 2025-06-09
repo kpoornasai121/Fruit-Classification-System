@@ -79,7 +79,3 @@ Access it at http://localhost:8503 to predict fruit types interactively.
   ```bash
   pip install jupyter pandas numpy matplotlib seaborn scikit-learn xgboost joblib streamlit
   ```
-
-## License
-This project is under the MIT License—free to use, modify, or share. See the  file for details.
-
